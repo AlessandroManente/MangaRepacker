@@ -1,0 +1,9 @@
+Package: mangarepacker
+Version: 0.0.1
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3
+Maintainer: Alessandro Manente <manente.alessandro@gmail.com>
+Description: A Qt GUI app built in Python
+ This is a sample open-source Qt GUI application.

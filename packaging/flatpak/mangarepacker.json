@@ -1,0 +1,26 @@
+{
+  "id": "com.example.MangaRepacker",
+  "runtime": "org.freedesktop.Platform",
+  "runtime-version": "23.08",
+  "sdk": "org.freedesktop.Sdk",
+  "command": "mangarepacker",
+  "modules": [
+    {
+      "name": "mangarepacker",
+      "buildsystem": "simple",
+      "build-commands": [
+        "install -Dm755 mangarepacker build/Linux/mangarepacker",
+        "install -Dm644 packaging/flatpak/mangarepacker.desktop packaging/flatpak/mangarepacker.desktop"
+      ],
+      "sources": []
+    }
+  ],
+  "finish-args": [
+    "--share=network",
+    "--share=ipc",
+    "--socket=x11",
+    "--socket=wayland",
+    "--device=dri",
+    "--filesystem=home"
+  ]
+}
