@@ -11,6 +11,21 @@ in .cbz.
 
 - Easy to contribute
 
+## Dependency
+
+- Poetry:
+
+    ```bash
+    curl -sSL https://install.python-poetry.org | python3 -
+    ```
+
+- If building on Linux:
+  - Flatpak:
+
+    ```bash
+    ./scripts/setup-flatpak.sh
+    ```
+
 ## Installation
 
 ```bash
@@ -25,7 +40,7 @@ python src/your_app/main.py
 
 ```bash
 
-pip install -r requirements-dev.txt
-pytest
+make setup
+make run
 
 ```
