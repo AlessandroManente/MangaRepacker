@@ -11,6 +11,8 @@ in .cbz.
 
 - Easy to contribute
 
+Documentation [here](docs/index.md).
+
 ## Dependency
 
 - Poetry
