@@ -29,6 +29,8 @@
   - [ ] (B) Batch compression of images inside files
   - [ ] (B) Automatic detection of estimate RAM usage and ability to force either disk or RAM usage
   - [ ] (B) Should give an estimation of time for the execution of the task
+  - [ ] (B) Add possibility to give a `ComicInfo.xml` or compile it on the fly to add it
+  - [ ] (B) Find and list all files without a valid `ComicInfo.xml`
 
 By default the merging should edit the `ComicInfo.xml` such that it calls the new files volumes.
 
