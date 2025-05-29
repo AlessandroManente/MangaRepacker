@@ -25,8 +25,11 @@
   - [ ] (B) Delete pages above medium/median number of pages per file
     - [ ] (B) Ask to choose per file the exact page
     - [ ] (G) Show a preview of the last page to be kept and the first to be deleted
-  - [ ] (B) Batch edit of `comic_info.xml`
+  - [ ] (B) Batch edit of `ComicInfo.xml`
+  - [ ] (B) Batch compression of images inside files
+  - [ ] (B) Automatic detection of estimate RAM usage and ability to force either disk or RAM usage
+  - [ ] (B) Should give an estimation of time for the execution of the task
 
-By default the merging should edit the `comic_info.xml` such that it calls the new files volumes.
+By default the merging should edit the `ComicInfo.xml` such that it calls the new files volumes.
 
-By default the splitting should edit the `comic_info.xml` such that it calls the new files chapters.
+By default the splitting should edit the `ComicInfo.xml` such that it calls the new files chapters.
