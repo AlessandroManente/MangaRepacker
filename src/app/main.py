@@ -1,7 +1,9 @@
-import rarfile as rar
+import mangarepacker as mp
 
 def main():
-    print('Hello World!')
+    MangaRep = mp.MangaRepacker
+    print(MangaRep)
+    print(MangaRep.folder_stats('/home/alessandro/_temp/20th Century Boys/'))
 
 if __name__ == "__main__":
     main()
