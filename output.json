@@ -1,0 +1,3759 @@
+{
+  "folder": "/home/alessandro/_temp/6000/",
+  "number_of_files": 22,
+  "medium_number_of_pages_per_file": 32,
+  "median_number_of_pages_per_file": 33,
+  "min_number_of_pages_per_file": 24,
+  "max_number_of_pages_per_file": 42,
+  "number_of_white_pages": 0,
+  "number_of_missing_comicinfo": 0,
+  "stats_files": [
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0001 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "f1db20770289b630815cb2c03928b50805bcc9a73a12a2b930efc1082e45c034"
+        },
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "148567e1f4e4e950dbc433251a877e5f5d3364f8c0072aad512f19f35de0bfeb"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "e98e29118510755ff6a0c18f3991e74b56d315efe84a0759425206a2aa3f2807"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "4d8b3b2859a936ab0e4b046a2996faf457ba6af7e7a41b3207d3c055c9954bed"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "50acebf0e9185ef31e471bb7dfcd664290f2903f381a5f84fdd5e30745a80704"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "3f26b24663cb7ba0745fafdb2c27aa801b5578df526c554d4d0bea610b8029f8"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "eae7fae4e8206b1f120b803bf1431d3c2e0ee5294d97375a4cbb0112b4e44c2b"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "53a42f79e4d235c5a83a17e99ba447088f704df8e81d5854b5e9f289a47ea347"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "13e02b78f99c6eb05b4c79d296e8433212f3ed92e933d573654c57bc55614510"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "d538a48df7d66a16301217ca5eac7e10ece937026e85eda1ff0ce61a797e9f34"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "48d2d6f4a15cf9c637f5b388eae0528b69931b86c2dbc4cd77781ec48617c8f0"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "8da3b673a24b548b77f7d051ff68b6a42e19834800c1a121c0fa789c9070cc01"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "8333882e8bde33b07850c465a4740a82e3e9988282a3a7c5eeca7b88e11662a4"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "ef5e43ca2189200d02a823627daccae1dfcd689fc8e765fc269bb40af2202940"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "15bec1ca628f047ecc112db169779b0b445c7737b47b4b81324231362f27b97f"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "24a20c8360bb3d32d6dbd4945c0aa9f3b8d0dd8d1e5ccc397b197e45f7f37940"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "11e9be88b02514cc93797e0aa387b129905721787ce72dc86de4d05bc8ce0cda"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "51cf8aa05e0eaba709cbea3cfc8382d7512b5c33ab4d6a39b13ed2d7798f9519"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "5a47c96e20830aa9e04f56c7b206b37f7e81f65e9ae0aec98fc884a1145bff7b"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "6dd18b90f544c4e795ca842e51450dc794a6f2ba198a8585842730e811f3a29a"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "0ee3f12fd762138a42ffdbb9ae78fd7ef247ca58c41cb4459879a5ab700106e6"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "250b8c2ff7f14f64da4fe0b458849a6632034d0e2b8ca78c8896a75acd0c3698"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "9cfd4043d481a135597e018b5cc93fc8e84cdb21fc003723fe6bdcb3ff6fd8d2"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "780e911cd0bbe09c84d492b99bb31c76b1f2ba15081ddfa6fb9b14c0e9d265cb"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "ce4ac358848dfb0fb8fb919aaf9a801819a9f86a5b91b4728491a7f1075ebe0e"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "aa51b95ab02394baad969eb178672132a9b014564abdf172520c71f43999d277"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "14d67c46532b3351b765806cb9e4e9a0181c0a6d12e8ed92ce6353d5bd44dc17"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "4d7d495f6ad4172cc4a474ae02719ff4d7c51319695a1eec3363d37c69d877b7"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "8f85a8cdc78f8d6710517dffc9ef19851fc3a8b725ece5c99ac6e669c3f5be89"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "d84e818dbe17828b2c76e489bb6ec066feef0f7c66247852516becb67bbaaf05"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "34fc14d880c7bbb45c69a0232f95c7620ebf8180f3fbd6112c90cd8c4317422e"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "c95adfa51ef5785a8485eb418648e161872d79db00e1d069302aebf1094adcd6"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "0a4c9cf166559f959c139f082e53a4ed47902c3dd871e451e05e604eb736e936"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "ec2c906afba08efe9e0c85a2dc7cb6aba990d0056483d23a59938cb9f3968af3"
+        },
+        {
+          "filename": "035.jpg",
+          "is_blank": false,
+          "hash": "f32ef88b93800a02e53a003a103bace57b6e415bb2f26918e243f231a9603da3"
+        },
+        {
+          "filename": "036.jpg",
+          "is_blank": false,
+          "hash": "55c72f6f63298d676e715b2ce033f68362f610b2e0b95e5dacedfab01f8e4b0e"
+        },
+        {
+          "filename": "037.jpg",
+          "is_blank": false,
+          "hash": "28a550fc7228c9e990f8abc6e6e6104db082d33a6c2f915c08a346506c4c58cb"
+        },
+        {
+          "filename": "038.jpg",
+          "is_blank": false,
+          "hash": "8cbe62d20fd9a61fdc919e7b35e16dfea3f7b0e26781abcc75988385134423da"
+        },
+        {
+          "filename": "039.jpg",
+          "is_blank": false,
+          "hash": "f39746af360f0026184dbdfd30a27e963fb651a04ddd71824c5fc5dfb7308cba"
+        },
+        {
+          "filename": "040.jpg",
+          "is_blank": false,
+          "hash": "dc4f4c5b670dd0c2e7400678b69fba5758cd034a9b515fa1fae8db0c4aa90e87"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0002 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "6e343c339d68c1b2a08ebe880c0653e6b2d56d10c405ca8522e047609a9179ff"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "736a63de4e4f47d038bea473faa60556cf46a0ff24d33a83dd24fc8115f1589f"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "5c49ae6cd028d816dab681f5e4dfc8b38bed4e963f00e7bbcd73605418f79ab2"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "a8f95b666e4a2ef28e6cb7c2f12e3bd0e1cd186c755cb46a5068e4f28a08557f"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "658b7c0b90bf1286209ef845d10efcadd096545418b7b4cfebcad0b635b0ecaa"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "2e4d8e50bbf6290acc13a7ee6f78e267ab82e289777e9739db828e9b83400f2f"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "9dc9a6a4346e0f1024c57cee9d08b51d2f46c612437fcadc1e1f2049bab8df7d"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "f3076e86f31033c9068c0121ef1150562ad977d52dc1a3fea2109d6c4e5fc9d9"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "3cad0e6fddde5584250412c4bff1354929b174d4f270c8584be5cbdf04aaa91a"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "d3244e0ae0a35234c168844c2bec3f241c51021992274ebc917d961571c0c344"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "15e2cb975e3d5537cbafda59f3563a10530b9ee1615e811764d2ce592df9a082"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "befc3a631ecafbaa8ffaf7c3b93d180d24113c5e6590804c60b29663261fe1e8"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "d7fffac76d5d9b567382653c8075f58fe88108df68dd5914bba97ce1de7db7b5"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "c0f9a4421f1e5a7d1edb73bbf529f48ec24740449d5d8b41f3c5c1cabd8dad5c"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "6e8258bd5f7b17245be935512b52d9ebf019f505f1596d9c5febdf5da1c513bc"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "133d6eedff694053b25b518f25b3d7996a59be4b1d8caf2d56e42e18fd69a348"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "0b41564163cf0524df105ea13c8c6cdaf28924897f0d1a3f3de25a4407adc25a"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "4396944e472e118ea6b4777237465c79b7114d8f866962bbb0b2a8ad154edc70"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "c7a981727f725b232d4747c94ccb9878480943b5bb4205343302c33cb134793c"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "1d5a2b62b9c2d0db625431c37138875aa832dc59dd12d4cd2bf9b9998448eeb4"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "536d414cfb4fc829d1d714aef77403df898af4b98a30ea5d3940681af4b726d3"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "62a956d4512011acd07a7051388d838852879b243854c01bcf600da2f84d42bd"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "27c76690a71ca8b07c0dca4bf6eaec305747bc0b761b9c024a6ae46cacb5c52f"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "274d33a0d60e5f58b1626c5298b50aa5b2c4b9469aa2892e5307eb5f3edec101"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "60f09c606ca0ea841b7a70cdd02c4b491cf83cdeff3223638136efa754431def"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "b250912d5d3c98c2048867445defd08e9e4e27a4336f4b935b1de0bd9f866a28"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "6848fe2bc92adc05b242a18203095519d971824bf511e7dffdd7af193cbc5730"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "3834c5cbcf538f67e6811e35bf5c6087a6673047db8328ad42f4a18e0a61672e"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "dc499dc0f86b7786b87a7a3574377a5656ff93b043243a30b69f2d55fb4f591d"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "fef16292af3bc517b615da5bee879c60fce44529f741983f90ea213cfcb3a0fe"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "76239ec46c08b1b2a8be82c456870cb423f266fb98fff814949bd1f075a7b928"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "64566a302e912f1dcfcb03d98daa03bed602bd54fbbd6a0476400fb8aad5eac6"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "1b2ea58eab39fea4bb66fecab2239bc09708a0f7de012e5a169f470c88c36e70"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "43f0b4531d66e7f1d7301b3bc7b2a7abd9a2592f9c134d50500b8a4138c86cc3"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0003 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "91a9d42a62e5a5c54e132495ad248d0eba1c2eabc63112b7f852659359094a3d"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "710868f25f8995e32f108bce5aa5a7b1907bd6cbe8efad4ebb2fd26909af7631"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "666c7c150f5439f8dde2cbde7d9ecf2fdd7797d0425c0ff6b8cb8373231249e9"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "d847e5f25449d0b9ec8a45a59b4c7ddd9d81c2bca9dba20f7a18810fef387125"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "bb48069d16ff9712bcc3ec9af6f1b401100206776dbbe1cdb51dcc70cdbf79f2"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "c50e912288e4ea1d5871bf4b6c91d2308ed7a348b280547ebdfb2b66c3076fba"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "1ba2ac4d673350144e5ab773e498299b8762014875f575668efad03eae5649f0"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "6956f1980f4c3b2bd77f4e11f876d2bc0adb689b54278a07a4656085d530e11e"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "b52a03aa00347f8102fa81532d47a178526f8cd95e7eee1c002de0c7dc27d24e"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "3f006fed4ac084afaa5a847bec523caf7d0fc2493b5755880d59a01154669fcf"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "0acca586a79c49e2a74c51d49ff5963cec62af0bd8180abefa156dbb42812d3e"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "ef3ae8c7594dd687f8b457bbba6ba1a19d791d182654612e1cfa53a2970a33f9"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "de06dcd99c916004c29837871f21596a657fe848676fec3ec319fe4fe22f0119"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "1b0d4a655c2480d885a22e5ac615a220d96d3648316c9cc86b260e7ae9de453d"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "31a35ab02396e8fdc03d7e3f4917b6b8197e70aa4611af35da96e5089f341090"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "99fe9c7a812ae06add9f3fc57741f489e18eddd68b9a2ae9fa43989526bbc998"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "59ca4720094182a52659472b96b1610a8d8709f76521bccba63bad891d90a842"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "f0eb0a3b35604564201cfc4d98c71546abfcc439a3cb85658441ed1658fb986a"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "7f255ba2442d2c7ec6f82f52ac5ec648b4d0b1ace5c2ddda99ca0116cbd3da51"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "309c7d6d18a024f8543c319d27376f3646597cfe4c63cce0270d712fae06ea35"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "aee2e0cfe1dd28329b5d27dece7dbfd2da082e368da2b4a07b5b48c36f38aae2"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "0d284edad0ede5440c98f9a378d2be3da99636f0d10b5750e20ebd2dfa8d5846"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "aa0c3d4fb0f982108a87729071581c581cb913ddab27c6f81eb1c4916b3e20b1"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "88b734bff8874158ab99644b37fcc71fbad29cd74be6557b79015df67859d2d4"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "1f9ed693a7f0fdcb3337ab90661b978d040130d1cf47390b189a64c56433958c"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "4ff88e7527764df7c03f981d64fa44f3876e825ae8b8188336537618208c21eb"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "e63903cc8afc526560258e9cd6be365afd3b7d360c641174029c0fa56af4ff5d"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "0a4a6741483c9443a93f1d232264ff6ba59ad048576fd3621b770fca5c02260d"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "38d0165e9361f7b0eab8d70ce785edbcb4e61bdf863b117d2c09d10784e83ba1"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "9c2dbadd33d95e3d1dcb30c00c87674b75dc124f9ffb1ae01eb06ea97c17f1f7"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "5a56ac73e38afbe096bb48af934060512c7e48497c825a30466ff5b35a3193b7"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "8cd964bf75b9bae457689cbc13e9443f1c0c83e319118c4178c941463b8c6f81"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "fa23e7096185d1844a7b9dd97b676b2592aae0f2e6aad537fee561fc83614b35"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "8275545dcfeb52a16f3590b9e2bf0fa1e773b07329027fc9bee817d4e263daf8"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0004 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "f6a1ad4b7831a7793f6040fc7403e069ca63e2e36acaa0686fd5c311633cd6fd"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "88ac5c226561068aaddba11f3c625a7f6351b4cb083c79773259d1de7ea84421"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "7952c715298732d1c83f38b7138b5654c4f178e7e5da259a086a07e4f42aee6c"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "f449a076002a95b6067b6a337c321ebbbeecbf64f416ec4e76c87bb20b2079fc"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "86eb0c689c1040774cac14bcbc48617811283450a13c8c2541b675ea099f4995"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "de8fa31bdcdf3e11c1dde25c43a50cf5ed219d87c7ece08a9871984332cdd128"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "f78479f389317c333f48c42f93dc5d2fd9faebdb77d9e2dbaa41f9ee69c4b7ea"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "336544cd685f7d2c082ec3a9afe31361d932b329accf800bb9f2f38fbb149606"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "f7d883ab9d809bd1f246e0d0982b7fe62fe76730e6075fddaab0a3f9dd48a378"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "a9bc2c0322f4f65c04971bdd7ba94c45c1121a52bc11a291d4401697bef79702"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "de83572e9d7244d6a26998e14ce9ea4530f1c2eab395c82c94c5b3c9a91a5e76"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "67cc536872bb51bd72cdb602459eda1d26e622ccb210226e254dc9e87bdb2e2f"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "419960a6132014c0fb82aaa67a6e96708c580723f01ae153027a534b46802b9f"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "47b0811a667c347f93e12c0dba8fe5a10b18509b6a6c2f82399dd6aee1525250"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "d538299c30f3061bb0f05b47cbc5cbee6f47164b60162f3bc632b75276ad94a6"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "636a32f1b562b9ad00dbd865c09cba2da484a70a162afc47a77e174410697a01"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "9a9883db12598b9f37c0d4219a2c32a46a775277a3ca99c0695ab5cc1c1baf3e"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "d3cd0be924d0767074c606cd8b24c06d393fc793809815fbd9416e8da807b57c"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "76698f96afb191b86f1f7cc2b4ddd1d034b1e94212f1a2939fa17bb01cb9958e"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "54cccf9f086b9af832ed3a4b98ae4fbf1e5bd181d15f1542fdb1c50291fd2121"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "d3104029ec9c8d75da8cee4645f828731b5bdd84fe984eeb4e961d651954da8a"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "731d871df997b1b82ae68fbbb9aaca5ea04e8f5df368d0a834de1bd7f7682a52"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "23bcff6f12a655727bda2d694ad2d8f10492c7d320eac8e2c97e04fe8776a651"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "dfcd3e542d5ff4d254e096e6a4446dab206d55503a99377a80f4eeb888fbb6e5"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "1167d9a84336a6984b226934751a2298031a39cb6e878f3214f9da5ecb8434ab"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "6673ab8d837112f9f7b9102cbfe186be3f8c990d76681a31901cd9f419a4780e"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "7d435b4f3c55143e5039d0c7595ac08e6dff76fcb7cbfe1815775df1ddc1abfc"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "6a4e87d51807e4ad6caff3bf53adf2a4fa10734f530c1bd02b822086d5cb531a"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "19bdaba9eed6065c5fc816759e4ffd17cac876c81f3ea80661379ccfde809e13"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "425b98a4ec678e2a702ffdd1557408896f39102aa7c5c664bfc302ce2441d429"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "7b50475d59f3dd5a457fa22cf2fb9182b49a919c7375da7bcbc4d1bc69cab5bd"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "b1d9d54e155ddeee2b539f716a19c5fede31587b1e723758652e66c7322b114c"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "d5b7aae285fe18d56c4593b4fe1b8aac38f0bb2efceafdf3715c9e452159bf75"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "295c752f9344b2cc62e1ff61d5e7052516e81ba27ec41c2ead86fbe758458787"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0005.cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "1ced5eb7f2cce1083bfc3f68fc97308e27a33560d3423c1ae6e9dbad9b5a57bf"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "1a4406e5a54632fcc75635712f0e13de414ea9a5239dce557c1ac8579d0273a4"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "00da142cdf2024d372878ff5b7207d0ed816e1b1ba188cafc148e14ee042e99f"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "e21103a4b12da094f108f57511cc8d4bc20b5062698986931077ec6b9e9e5617"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "104e0649cd77bee88d2679c826aedb007a663ee45e5db57c937b823030e0f96b"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "3b036baf5405af64cc5c9d34b2aa123c622c9a6c28e063383fa28a68a9b9e667"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "8504cd8493ca7495e3afe90ef96652c1ce9d2e2a005307d214d2794a65f707a3"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "f678037c894683bed7416d35b5362a74b38a4c3aecfd0015c24ce9554ceae05f"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "cc40fa1467b2fdb7af0c979b5f7b7288b9fcaf2665426eaf228872cc406cb7da"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "4f53cdd35c35396549357890804c01bb4425fa0bbf7707be90480e71052c37fd"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "ef15cc6eed4be10fbb88631e3541da734cac68095376ffbdd68faaeec37a3b03"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "df55db3b03a00df4c6cb51c22b96f9bd30d3444b8d91966cfb4aeeb597c56cab"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "395fbe9edb1e679fb3555bea631dfc8849b3160b7e2d0de8e9e212b68f161470"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "ab386283fc37e870a0dd8f458f3084240470e8de9d6711b4fbad9f4441517e30"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "a6c763eeb90d30cb3a69ffd7b2568b3e22e5bebec4c5607ce4661c8bed382ae7"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "785efd7f8eac8d7b5ea0453c35d0f928f0f04b492f9fb198d7b8c07ea2dba81c"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "f7709e7a51fa023d59e3527a2f247a984b622224524f3cfdf09f16b186f1488b"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "099eef8bedf73ba495d613eeb950022374feb0fe78e6ef00aa2fe07f09297c2e"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "12d64627e52c99c5d151537d5d408a760d4a41881b10748d8e8da2db14c5c0d5"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "f7a51a8ecb2b832c6aa9719a72abcacf76bd4aa2e19199a95652cc0032305612"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "a74078759ed88163955add13e18f07dee6848e8e0f67f0cc510238873bb1fd1f"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "3016abb76b0ed6bed146a00fe00649d9b7e5ac76ec56e603f095a011e2449b7d"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "fc9f2dfa701280d8205013d754b4681ad95009067e032b866355735e8333f561"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "7c3180f024d602e716ffa0fbbb126dec5e3cc3b950bf0ee783f4906ea0e7c119"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "79cf8e49fdf357a97613fd1f324e6a09c225557feccbd89eae0ede23cfe1023f"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "2350c7fbb147ca2a509fbc03834586130e48b77c2c47f7a7998114a588f15a97"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "76ad9f01ebb9e97fc80340662316f989f17028f8be45ac72d5b9206519da255f"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "e7e120f7d35cd3c156b82bb8e7c012b9d405dba5ba527668258484bd82bbc75c"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "c86eabd4047b4c41277c77083e3a74a0055cf72129f7e942b2e5c67e9ed97584"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "f0e153d4e38a21c6e4c55b16534a983a12d26f78ed206a80506541a755cf6564"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "30c68ba8856184ee877997884040505256749bd0e9cdc03d804a3f4c8803898b"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "8dc56562b9a155a9154eb3e912b488f476107f07b8b456467f98983e51cb9b8f"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "0c43412efc17916eafc4749bb724de116202a2a23365f31ed608a43f9775728e"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "6617975067922166f1465ac2d391006aa7905e66dd178d2e458769444b721f91"
+        },
+        {
+          "filename": "035.jpg",
+          "is_blank": false,
+          "hash": "0c5bdcb54b4ab953636fc8d9bd8cf7a94e47e92e24097c14a32bd1bc21fc2796"
+        },
+        {
+          "filename": "036.jpg",
+          "is_blank": false,
+          "hash": "331840b127f72da74eafc831e5d1a19e993261356598f73d641f81f3fbf9ad32"
+        },
+        {
+          "filename": "037.jpg",
+          "is_blank": false,
+          "hash": "d5273ba1f075c61ceae67f8cdec399834acd9f2c7159a546434cbad48ee28f97"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0006 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "29ccc0106899a252290b53488daf687627d6e5048fed0d642bbb36a14f2a6383"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "81594bb97550f993cbf67d6e4b32b42f21a78c2ce6c3c8396b701f7452ee198e"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "c964dea664228cef7397ece730719339cf85251c667f211a2389ede7da4e083c"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "ac3af72187e18edc92d595020d685cb4b50213c5f3a6b7a7714d10b86a421046"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "dfa5609897ef3060cac2db98b1c1acafa13b4a810d8128abd5e74a23fe9da1c3"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "5bcb26a65c1001a07005dc20d6b778f5de2bbe97d4347728fc62fa597f624222"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "af10305e587cdb1be0d0ed40a172713411dc9653fdb0bcacfbaf6660bf4b62a4"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "a74b4977a8d2010792b9d4b76a69548c0aa41933f3e2703e02a42bc9c2e4c2c9"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "7601db0e9a9977be94769e8c4c5cbd8a290da5f78366b9096b6b2a3cb24dcfd3"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "240b0cdf4dd565e3d3dba4d0c7ecb5f3ce11b83dc7dc07daee544722d9c4abef"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "3258254370901bce83d7d44f5d60c33e4bdd6523498f4fc4b1f45e3e42a32ed3"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "9666294ce7410c2cf3d68931e66aa02ec2de29ee2ca0a0b2ff463cbd31abb823"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "d3a965fe047fa79081b6fdbeb3d5195d3498e86e83f14e15d8b76d1148e6c977"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "78fe5d2a521993f2438a36b207829cf60a5ab687846a5b449f2abe81e259864a"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "5bfc8b8d7cecc34dfa7c54847e6bb575999b11772dc1b181d253360a3aad0ea2"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "2ace28208576a7e2d63872bc6ec016cd5dd63538e5fd5adea67fb7c711086d8b"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "dd342ffa288c2656bcb8fffa3e0515500c7f8b48231a119d399f1720e65146d2"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "223cdf59282fa314294e7cae418ba3104bf0184e6c363663785a1402291a7619"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "da07176d49e35201327985bacd18022a6f4bc814d2df13983a80e24a362dce79"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "ca70196bfee5d6483ef9ab47cb2496ff5ebb5f1a7ebf39c0ac08febe7f7d2309"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "9e71d22e71baf801357b502ed3fd11d4902fab727aca793d8648087d93a39a1c"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "dd5695e99f10a145354d037810c5391f5f88fd6ae823bf234a7a217378675a62"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "35a937f788acfb456137a732fa09a84880c591a7a7563f7a846524e008229c96"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "85e536b1bdf023642213acfd51fb697e64d6ec486ff99cd4a041e7f2bbda9a58"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "53b703e5e853c41c6b35568419e5a1cb1a7606d44934b85682e25ec49d5e2073"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "958db6e66e78590696051df6cdf3cb76890d035b2fdfd1d6135db0aed071429c"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "0f5831f259c24dca70c5b99ddc778b6975e0cf0e7ba0714f8ef747cf857838b7"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "43bac25f33a8b336224ba05307f143f7c8c401b9b3caf939d29c5cbdefe81d29"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "88a5f6fe372e438a62304a87001dd28541e7e4e7a997bb24ea8605ac919ad8ea"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "2ca358d79429576638299cba8580c12ca826118f947d45870da7b0c9bb7ebee9"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0007 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "1b3e6a4424a839d91f165ff8e452a553b409d4cbba6495655349b0c532a7bf6b"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "e38e6760d611d8e3fe7cf7d93536844001699b12450a89946cd44e97446813d8"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "30b2e7d25af633b0e89bf7541ce3189203643fef25fc7b1f5307cae8d9076608"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "8275c43b811fffcbdf02c2581783b22ae8dbd517d65c81b7dbacf238c9b54418"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "b61c5e1b23d9be57b8adeedb689d38ccd49957927b877c830ad9830ee83a9958"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "8706b3f494f6cc9cc6b74a031beae11e9637b9aef6934c844aa0813e7631f565"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "beef4dd62b0b3e99ca0900072f6768cf1db7eb8297151b12571f2b586de89e0b"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "de7a16a174be2ce2309369a31dd81057aab80fd0841e51d9057bdc0dc19c534f"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "acaa5b1f8a4d287f87706bc17123ad3994bc3656ee2000392a53126a4cfb5f36"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "5c68b1a63fae27f2630b6c4a349eb5ca13a4db43d72c99230eb572dd306933da"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "df0748e1013eed2c4d164e95da0e14a8d43ac7d1503006ce0c811deb1258ecc3"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "6353763769523f4f0835dd92d1bae292e0fe6e678cc39a79078078bbe8b576c5"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "f2753958f2305c03111d43a436d4d1c12b12f1ae8c8ad4eef7c3ff6d79c46937"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "d3600787551a5d7a69c32dfd00b40077161bcb9746e0cee922b622c3f902cf68"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "52fd4c48e7820fa3cea4196dc59a966d6e9b5e97b91b071007314555bf68acba"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "0b6697326d8bf1a96f2d9c866892fdc6b46a4fe54ce9d8320af555ec776ffd55"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "ac6dd03d32f210246c4030a2e0088ae43464b7008ef9dc4056353c4a231e428b"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "5eed6dacc47ccf007788bf8559ce6e8d55a6c86cb84455e2f2029d8c03c0a0e3"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "22195414b2801ea2af705e917eaacf3c703b7a38b315682b3ecd1bacb7ce8264"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "85b1b17b6963e8d14b60cf0cdd1f68944fcda7ba5055a79b7aba57af4523425e"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "f1d3444f5d1cbbb039d20d60a50b44a78dd317213569eb929d6eee1d2fc61376"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "fb17fed5ea2c9efa088b801d4ebdf37c01edc2d97d94a39e384396f209a04451"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "8fc3cd563ddb7c78a5a87ada8e98894673f14ac650c86abe9a18991479870b8d"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "a0ee848d3cdac5c20fb199657fbc32fef85de2b2652080904aa203c8c71292d0"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0008 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "0335194de562dc7658803904b77f1ef2aec868514dd08b7c8f570c2a207b0bec"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "0c21db22e169748a09999a0be73558d4babab3a73026ef83fcf676b4ccb2b764"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "fbdddf64c5c4095150458cab2d048bbaddb94b8e379c24d091669853ac5e9d76"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "1b4b37e2ef9fa5c052bf31eb1fc08927b3666d4390e96f75a28292f66427407f"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "c80006aba3a6b74109eff08fe46510851cc22ffb6c3f8fb07ffd06f9b387d3d1"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "e39b81ff2dbde55b997cc8df0742fdf8762dffdfd6c20494b741cd5da78059aa"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "912edac6443150a4ae443fbd9226a3441843e3a179f851ea1441a1913b28fab8"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "9367750c28e3183bfca705de586449cee584dea9ae8e93e3793600b45e06ec9f"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "ce91a236d9f17fc08d46f7e3ec98eba502e0a27d920d4ecaa5f235c4105cd799"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "ca87e84228a0038ab1682b177a4baf48ab1ba1d49a02e47588768e4324303715"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "771075b75e37362219ad752120e46cb0a262bf78bc30700ad5986ddd5d5b4b9a"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "6711b141f0e4a1d2311388ac0af6e947739364edb92bb83260d6f99f7c902f57"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "dca00c1d530a38fee9de3e5dba0468a82d53e725b705f0e94f13f201ef5b62db"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "0a055e961511f6e15a0c7f28ffd82d32a2b067ab3f0e847b085bb40d5366118b"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "eb93f10a6a553c0e56f8c321eaf1a517f5629ebb5e398fbd8f7934b561233589"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "a4884106a1af7b298959b0e28863bb5918a72dbb7e65a5709dd002cb14931f93"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "284076ac7e8d8575204f6e010893459d64556e9146fd2eeecd7c084379f9e50d"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "00eca60a6fb3fe67dc426b4241619c4bfd92f7b698dbb790ddebeda5c49e4354"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "8e09e95668e64b7706a4eca6babb2ab25235a949a2c15b01bd4d1f207eaee194"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "f040860a2365cb10d48b45bfb79635b04e8dcff7474c6020392819609b36ada4"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "78cf4b4b88c17f4258b348ea62dd722acf4c94b8c6f236c2061e9b1c99742551"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "266ebb8b10fcc614ce1be2562c214b62aa146910e996b6abd8293f0b0db63a54"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "69226a74c53349e3c0fb67a43f1436d6c4799aa2d70984012622a0121c9e4e74"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "8f51f6d08cb628c86e549d0cda12750a3c99ae4d29556a695ca7641d24bf93f9"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "4b4eeef41e6b765fb9c76aac851391469ba5b2e11f2efe2d661f754dda6e1998"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "ce750541920c50f925fcc3e255dc97f65bb9520164a73b4e10539078c28b7e31"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "511ce6e9d10b190ca534a2e76545b735fd898aee6a10a011a2521f993f45bb16"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "e81a77493f863de43fc8edc334f28cf006a8c292af2a6b7ce76838ccdbf0f68e"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "77b6ea26e81f58e252b45e09aaa3aacf5025da758486156ef1ef633aac4ac740"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "75fb667bcbe62512d300f4049be8f44d13090b151f702ebcd356b5bda04dfab6"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0009 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "2b4dc8d0e45c5a1bdf7cf51292dc40fb955dacc0438ef3d0b2a872c4ca405269"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "c468b1c86eabd7c189e1e3915b1f3a2c7f983449753f083394d3600c2961692b"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "83dea1eb1f6aef9cccbc9ba3747748eb61b3d861f29a27c8518593990ebfea3d"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "e135eae9b857279c754091589806bd26e466ef161e614864eb94a4237a31c5d2"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "432d7affb8afc03c7b445eeb832c58d9f6d99450cf0310afc00c506b20dae10b"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "5c65888d231a8e8b4afeb0674b2fb73e24d1bbc11b1d8afbb8779811bd928c21"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "63584bd387bca5d473cfd75e10c6ff81650d76ab01d680a3687ab011ee2645f2"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "85aa3d1c064a134a5e72049aed807195a8ff4dc85cc26ea034feab2f38364789"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "eb9f85755330d15a5d13464af6bed70c7edbab217a6f4fea13770d60f81371ec"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "4841aa7c3be8c6233d1dd4a2b15936670f3e66f05b2b3026f57a388013b8974f"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "833bcb34b726c80788eb8e649d0601693f8c2c19d2311836f7bf7e7bc9c543f0"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "ad5404fd4d90eca24b51bd872d9a261940b079d7a264e37ba72e5fa73b7f827d"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "69e5f7a5450e2e31a0b13a4cb613dadeca1cab0f9faf859ac7c7a22b29843862"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "d83984c8a2891ca54908d2b2fc761accb5b20da490e29d5592179e182f254584"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "c83668bed262badd403bc7231298236a1450b6b9d7c0770333b01b20f82bc090"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "5d454c4eae23fd132ff238f2cb714e58ab445e956923b256435de759c72323b9"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "248ed59211ed5a23217c20eef4c23a2e27ebc0df912f1ff0ffb19f663a33250a"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "1986f66d12c94359ee8b5b722f326ccbf9a74d935ca264379234f8efda06bcb1"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "c878722a6f4734dc604429924e7e109deae7e9d37dad39429ee19674af101aeb"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "81c6b094918939aeb79f57d952578ccf584878ccea676318c4a0cb3be0bcb0d6"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "ab2e789fec6b28acdba34d97c3337dd74a4d27bf900f9967cc233d21272e64ed"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "c5aa5e75be51c20c5919fd30823faf56d5ee6dd70c5ff27de95efbfc07a030ec"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "d789e6e7096b86a33db1594b307e1cd8bf6ca25412b2fced65c547e77fb5e461"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "1d04b4ac60b8e97bcfdc45874e926304dfd50e7fefed34f3b46195af01d900bb"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "f54b97110db3d2404cd70fbe480afe4613b1e7f5a6723c6d5f7bf25084b32b29"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "6cefb79861ea08a80575997485e29444c7e16f9b381ba2fa3d5e5e8f214f2739"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "101bacc7b0d7d3d514cb71b38b225d89c335e3d18538a248f0e8d1a2ddd34f54"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "6290fb1230f23dcc8a93b8b5b73d3e3397e0c5b415c8c68a384b46a1dd81c824"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "3ec64c459d66dd8d15689c241d8e6cd76831acb3d51df4ac1d4d8d2d908910ae"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "c926962a650e353c7716740213e6283cd60ab3cb250d62d1fba367b2d9091a08"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0010 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "2a4357e4c72288e29a207208b77c8a01eedcf68b27fa66eb60988479643651a2"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "c528fd68bd9b4d123c22cae8884a8f16343cebbbdb5a2d724033147eb02073d7"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "6b12fc2ac3fac263611c5d5ffa73c76aebc774eff7ce93901df6212056440498"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "b9172876731945803e85fd269234fd157d7200249d7a551e500875376752d827"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "c382cfd79ebc651f5a4f28efd4b4386e8ca593fbc4cbd5e9dc571c931c2466d1"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "9f99e6e3ee54bad969e1513ab249df032c2aa63fb2e9ef1d39e41dba0f2d339b"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "1cb3257a4eb9aa869dd0887cd9df154fc1020e0e2bc1c0f0b104245897bc78aa"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "0f16a30308505094d1b14c8fe49b9a5202f55f3e8362c6ffd7ceeb156e7caea1"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "a1f98bf729e6c997ec8f44109c8d277c27f9633292ef557b718d26a462d27fd4"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "3e3df042369fd2f4ef767663e1a0ef4663e7c0ca248a716af17db0e1a7dbaccc"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "2fb590251b5250b064374dd07cb84714dc0255863f1bde42ebb3d261863126e9"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "491c60ec13f7e843233f5fa342c093f80efb4c32c450cefbebb6c637f3a3167c"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "89e2a38915896b1ce4371084a14af99360cd4ac6a625042c1e8e95cc115ef195"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "4954663c3738a3bf96fcc75e6fc2158bdae7e7cb13d83a2903d51b2ce0f2835b"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "447bc5e3a7fd2e928a7a413880c9949aab46c6408aede1a59c8065320f22445a"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "8a15bc0fc332043cc3fb5474f10b0962eb18a81729bc31ae021a10b46750bfd9"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "ca258b840a7d667cde7a0fc8ade49a5968aa4ac32c51cbb70df355738a498402"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "3ebe9fbdaf2f2edfb7e4a39f7df6a1930764b1197781803ba38a99ddc1084181"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "958d036eac3bfdaf7863bef9bd4eaee9efdf8d7459a68da0bcad48906f45d2a8"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "cd842e4f61b6eaa71dc47b4261ce1f678564cdf34ad9775aaee9059ed894000e"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "41c2a9f72d2957cdfea87202b21ed57fedb04c6982cdcb5289ed684bf3b1215b"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "73bc96998ea62b8e05383b409faf780e7f34d62100fc3f70aac7eddd0836efb7"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "c182df43b7483db5ac367939243722d7497d13d6da8132e98ec6b0ae0d01975e"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "84c0891f85f68c76d0420df851f263f2dfa6b613ec911df644745dd4510fac5f"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "bb2cec3de7991e2c682cdedafeeb21bf02cc47c669d05eedec7aba629ceeddca"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "f5dc90d2be346ee3494887004360aa90f288fda06e82ed82b9c07e36453dd3d5"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "41f66961d24fbf7039f4bae88dbc2155b31d011a06afe6ab39180bb2eac9efca"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "e2086014fe43abbb229e712e773c5bb4a5920955985f9ebd35a10e649bb30a62"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "55cae0514cde0e4a22660b5426f2b42a3967a6c65ef5b4dbae8319039801566d"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "63029630f9950fd7aaf88841aae47e193a7e6feb69f6d66d058f6c6019695aa8"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "2480fe59dd024ed5235b8291ef398b19daf3f47d514c25ae3b0710c35967b30b"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "0a6e2866bb00526e826f641478fe9cf478ec7877e42f31592ca4e1caabea7e7a"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "75fb667bcbe62512d300f4049be8f44d13090b151f702ebcd356b5bda04dfab6"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0011 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "c528fd68bd9b4d123c22cae8884a8f16343cebbbdb5a2d724033147eb02073d7"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "2a4357e4c72288e29a207208b77c8a01eedcf68b27fa66eb60988479643651a2"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "9d9499164eab2f9abe2d39745d04e44365cc8654ec0214581ccd0e56aa4793ba"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "d6a68b210216d7ffde04a1bcf03c7a3016044ae6860797ebb46306744fb7f462"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "af3ea501cd50314a4560d1ff4b07777df48655ab96114814fc1f5964fb20d141"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "a9f5bbfe433b39d5c02ea279059f65f2fc99c2b6ac993a2c763e96792ce92689"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "dbf36779f0046ade9a4a5aa61743e08e2ea30edf0e781ee707c7c7dac90f3b29"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "92d0c118d704f4ff698ec2bfb62e6da0d28eedb47b3b00fe1a56c2d3403481de"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "9aa2eb55a1b2bc7e29e66cdd60ad489e876592189e627506ee2c0781e8059b2f"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "17152de4f73e345b071bca3597c57734b76a08fb91969643f3741f508eb474e8"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "6821c7c07dd1905fa9f374e2d9a5284a5718ebebfa9d2701dda7a137cd65f025"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "07a2b1e2344f186f06fb46331bcdb81cdbe79a558bbef0256d19f399896dea30"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "5deb2052556ded46fbfd3a51353467a9408e8172aee58c2f1b2978197410d4e1"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "15b8c7a2de11ae9a916c3076ae12892f065b486d032c029db5c88eba48874a41"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "edced6d2c10f721274a2c82027f827c749011f8f1dc5f0caf514e988f7b122bf"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "0da133d59f5d007a6b05e4f41a5eb8ef97c9b141ed2a9b519114c1795d5a8a59"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "f3829f8cf6352122d5e58ff8493fc4e491a49c5911e7b392fe97c9517bcfa986"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "a104834298c7691f2237d6a86eab971942c17275cfbff90dcfa9da48990a89d0"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "304292722d742feacbdb8f297e1241235f9475b2ae353ec6a627b93c644a8d38"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "25e5582304a2e9648923553f7b0c48120d6abd4a16611a9836feefbcec907660"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "26bee7e49bfe6fba7ae9ae29f9cb84ed60d0b7d78bb41692cf5903cfe18c96fc"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "7f2d9acfb9e63d039e855266d9c9cbc9dd438afca8c8cb3f5f283eeda0043a65"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "eb555486403bfacdc0c3fe3047c7c49652bfa62235351a5180c41ca83e0b2d23"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "64ae27312ed62fe8e88eb1317ae882ba4fdab3dff8e8ea3f545b74e6966d7de7"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "759745b41b8b0e22e1ac830acd9bd49f4a0e6f55e81decab1ff4c7bb4a9d353e"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "9fcc16f1c630f6af9f86dfdb518aa85ac83159856ff9bba703d47d3c9944bd01"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "38a96c265bd5fee9052abb60ffc535f451ee2a3dd3fe980b265f2c01c4559984"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "8b63a332a19bc7fe5e10e9e97e1e1abe3947dd98ff78352058dd76dc1c63014c"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "316e1180433dcd8252671c6c507b51dcb9d974949ac57a7c9822cdd6cbc2868f"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "1e0492df4146f1c4bee4cf7ed9717a7a35de7626bb4a439def75e99382db2be1"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "44f3bbd3da6df0674c90c8b5c2296f8024111e8546a678fab8555ac7913ace44"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "b0f8bbfe903158afd219ea217c9097a346563969d1ab5507cfbc45e625ca18dd"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "9f864b60fe434253356f553db45c07c996e3ea798bacae63bd6e6ec77a4faf06"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "ddb52639d8e6cd7566bacc4f0bca2bc3828ee68cc8e641a6af2f54a0a43ef62f"
+        },
+        {
+          "filename": "035.jpg",
+          "is_blank": false,
+          "hash": "c2ae6ef4c8a7be83262f89c06e7fc2518e52cbaaa3a0d58f0c50b7efeb13fd74"
+        },
+        {
+          "filename": "036.jpg",
+          "is_blank": false,
+          "hash": "361ada495716a9d12c2339bc4c8fa66d7436b2385cf604be142ce202815d545f"
+        },
+        {
+          "filename": "037.jpg",
+          "is_blank": false,
+          "hash": "75fb667bcbe62512d300f4049be8f44d13090b151f702ebcd356b5bda04dfab6"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0012 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "fecf9211182ede12eb2cec2a768593ad7f42a1ee1538589871a5b27953ba7f85"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "345ee5b2e9e60f762077cc7b792493534990ea5932c37acdb19fa78d98827598"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "f64beccf4e3da293e1054b12ed6c01a212aa8f3f2e8fac150e659e47f14c4fb6"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "fda71e79af0acaad4a990d3a94ec13a7f1d1edb17cdc55c04d0f0c650c97fd96"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "acdf5392d16302a92bbe47b061e0c0b02fdb93e985d86542e5a0f157ef0e844f"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "c5cc283451fe997d6efdb63cec922afa7e94752fb74eef178c997f96514c81c3"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "5e79f8cd9fce4c8b320b5de29e0a825a5beceab4ba35fe9d1b9bdb9a15e93346"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "bd550e669ec0e22ec24967bccb94243807a01dabff3a1ca61b00729daf1bc6f0"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "147c0c04ceab894688ab0d6d5f073baa8e9fc03aea2df943a0c186721945dd05"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "805b2bf8d9f6edae51d159d473504ee3e7badb2adf107d3f555c4e5bd129338b"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "81da12bfe1c0bb9cf2ac5875d7feefe65abe769bae4fc5a88f9295646c7ccdd3"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "71c6177d43acd1e0f95855ef4eea4f487ff18faad79273b3942ef661d38b968b"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "3a13610983b9ccf398ee2aef291452ec7d953d606efb8c3c5712f046c95dffdf"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "63c4ea8c5142f9e6e0cb278885f9cc2c698a79876748acdf28a47732d5e6f51b"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "06c380b7f4edd30dd79edc021f8690292587d46f924bb0475765e3faab05af1e"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "6a7ff270bfd750b25239a48f78000c2fd58a0e04bc19d90f032a76e5614ec920"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "a4f0c7b9704ba60133415dfe824f11ce5c065b74d928895f85f0c20b10da7bd2"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "dc1a89ae046f9ec17c52ad24a9d497bb6b43bdbad96ec1f51dca3a754cc32266"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "d123eb3366cc97656bb018c5f94e3ba5ccfce4dfea2e2ef13a9eeac4207e7fee"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "ff96b710395a880568eaa11fe5eef25ecbfcecb65f7fdfb7ab269a14470a40b2"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "e426d532eaef5bb8a0cf12cf74acd184ae2736c3986059e833c7c57da96d73cd"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "bef06ed5e2feb6aa1504a5c2401876c467284b48384ef7c019faa133d11ddf25"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "db3297867392dfa202e566ed0ee6cbbacdb102c1d24870ae765005e26691c798"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "6dbcaa7885d36122ce87e22f6bf840b7830350d554dd454392035428cc63209c"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "3696dd1a43582d50a0fac5fd93e2e59e13cce45d72baebb6bcb986b5cfe1c43b"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "333a457be50da1e55b8d474c4b20549358fee95ff6350e9e0fef7f3b77eec6c0"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "0da0f61c5d94bb92f17b3979f0d4575d350f3185382686784d68ec3090e321cc"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "b7347524afcc2e02d754d5f52cdca60aae8d444b45a701943ec35449c85d9bd9"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "9be7aff6410c17265c74e0579467bcf5d4d63b7f7f6c5f15f15043e86b079ba8"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "dc3832c4b21c26232bd1c788f14c3fe768699822a5d5b478ba27fc172174daf2"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "d18f9f84654c3b65e6dfb69f3bc9006bd4274bc03550441d5b0d101b9089f48f"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "e83aa1a30029655ae65aa12184e08c2b91ea8c2e4665b94ca1765cb0cc63dd46"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "40d47b197e92d4c1bee4f2fef37761e9b4d385e1181694ef73087172faca97d7"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "33794e4053e65dbe2341feb97c9d15e2d21b5a1255ff37a4731e55acfab12e9a"
+        },
+        {
+          "filename": "035.jpg",
+          "is_blank": false,
+          "hash": "6e5f8b5b09b553b86a716a19c0e3b5a5f7bb3af6b44bad8eadacc43c2c86f48b"
+        },
+        {
+          "filename": "036.jpg",
+          "is_blank": false,
+          "hash": "e944127d28d4ea96db5a11cddab5b594c8fb3615fe81858e1dd3f45b5ac6244b"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0013 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "2972e92e133076b7fc9d74f978d8b901d59104d37e1fceab90d6a8f9a49ab800"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "5b0ef1c0f4f871209923b5f7897da32d85952811326d4a762a86cbce77fdeeaf"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "682acbdc2aa88ec92bfdeb5336ae23b2b9652e59e45cd9fdb8b08f168c214a39"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "88c03e435495c982e1fdd563fa8348ec6a922e72925151cd8e15e670a1ed3bcd"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "fad2c0a5e26293ff26b0aec524af49e05f80003238076cc5eea6961be6090199"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "02930186461979d5d325dcb990e488c6c3bc5f563a6a3459cc9c17dbaf5898af"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "3700a5f77c73518d0daab4427b51f31f62a713486a96d44ff1dbaed1ddc38333"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "232c1e3f70fa08cc447101c63164ad8d5a81f6fbf3b0d2da685fd87ca167c440"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "f1e14219131989192c4486c47503b51b29c4ed9b87758756b2690d72ed17fc67"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "54a8610db0299d4f10c490791038619510050646a03a3d19f788d26b6cd92f7b"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "82c0029d84d7168fb615fc037294cc5ea61d0287ca4a32094a16ab0058ab0704"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "7217b5951a7c64190b2df8652a94e1c80dd079d756334da28a2ee1f41f9497b9"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "189bc1a19c45c21b026c8e1df2a4049f829415bbeafcf25627535ad27e559aec"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "a3f289e438a4a79a195b3efe4dfe89aab0b215d48e7ef238f687d7c436c231aa"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "cf4e54591e5507eda8b8accb55797a848117d4468d032ab8340bc7c15d8a4b3f"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "cf04103f1da2f026a203629d46171f511a83d66e426560dbc39c9e13876ab054"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "da46767c49dd12b9644fc8d9125dffeb87680e32ebac37dc231b0d52df0fd15b"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "6454583b6265cd0269d94b72bd49309d6a7456a280efebc80e9c9610f8653262"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "fd4f1d614c424c6cb642a707b5c8aab13373749f6909014c8ac0e7cab5f2b745"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "b5a0344465f7d5da9642dde7c4a7907ec32aefe9e8fa59b6479ec2e761edd489"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "648814a1ec8e61d623651826e9f5f63803e60bf9209cf954772c0e1f15096722"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "568184b2299d9339408be6040a1addf6bbdcfccf253217e8e495dff8cd65910f"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "323e8b93c0fe104ba6f471ef6064efe89b24f5c42fae502a53e8945e92c92c3e"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "a54327a19173b0c950591d130eb5ef25b5e3651da1efd8c47daa8fa25a5e2e04"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "b6baa138a9a92e072fd42677360f051ad10eb78772edbec34c2e61b5e4b09236"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "c10baad601d5b00887c018465f1fca95ca89c5e6bcc75d40261e7b7ebaa95aa0"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "77378e4e252c6d9b835c7686861de49dda054dfc542e39ddd2a36d4f77ad8979"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "70a86bc05c902a76c81fca7b838726fe261714c5387b3fd424a5f275582a053c"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "2dbda977ba8f9458e7c8d54700b4e7e40892254aa6ffefe84e01837c89eb1840"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "1fa568c8d220f31c3f18a31ff900d4bbe1d2a1f9f7fc8831777bcf3d6bc8b36c"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "20bf15633dec9f4c4b04fccfb8fc431477abf0c3b80d07f4f7509f74566c95f9"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "2471c53880a26fd1a6f49f76ac987beb9d44f7d4da046c986f2ecf903b8a2be3"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "64973d798c09eb414fb6db6e600cd96e4e0f84d24bc0d56ba46d3f4fc0d33961"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0014 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "5882390ad0bd2bccc785b1985564d798b56722ac58d51549cb66544bad75a6ca"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "021f64a21d95d3d32e2a4928426238b1673df3461bf31c0dc55c4be421b076c3"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "1247148868b08d409dc5c979cef9742d9cd8c6fdf6f901be31b283b31955f97a"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "a3aa1b6afb6bf4abc0f4995cec1adcd6ddc64bc3b80dbba6ca0637f1b1914ae2"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "c3ff91be686b88a0a3484b6c7b678e4af9479a9cc73eb853bf62a4e74392c67c"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "ac07ab6be93ed3c648b5affae2ab55aa7b610a82fa7e43ec7ce777a5eaf349f3"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "6164cb95c096de7937aff62b7860152130b3904189e9e0edf8a96e436433f022"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "3fdc897a9415acc21df2f006f558595f9d2ad21cc03b58e9a931d2fc26f5e9dc"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "3ca7d44aaa462c05493b49ac56aa5d2b124b3525110790cad15612bb820967a6"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "8e72c06f638ceb1d6ce07417613f3fdc6d692b73173410c43eb8a3b8abbc7ff2"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "c23671f50909568dc06091606feb84a2fc955f6cb69837246bc947f7b505b5ca"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "f2c6e9f82e6a86006f1f2cff6848ae155cd83e7b1415acb0dfd14d96b801bfb2"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "a0079cd6d000f905a4704192f9ec9fb4146a25a0b914590e8036997a57dd4861"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "709fc7c9a5fb6223c0d4890bac7cdff296189a83503af3300ae9783dddbe884b"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "0b80acc7288512bc7b759e57218289eefd5a324b5544ce99231ebcb3a3f2a628"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "ad4d5ac427118e7345bd17bec9ceab48b78ece77a6737a25bd0a5fae77c6bad9"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "d1bf0c025ed9cbd0f3c635410674870713da420e5d472cb446b9925b965718e4"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "500a4d382e7d6b94c3c03ef8df0732f3eda2d4bc2aa2b30c6e8e8efebf2cd3e6"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "6954c70fbfa50819d56fac9668c12f5eee12d7b2ebced480a90071319f190518"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "b813edf3ce00b3fb3d542b7f6afe2770d8988bd32dda1550f7ebf53b25fb1486"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "28c810a4c4563dec72691334b4001285d2688602a9e966ad31008d41addff568"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "4dd656b9f5865637d401ac9ea3c63ae287f141675376fd467be0c4c4eb84f65a"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "26a99b3910d0d38e24b4cbc1e9532dec4f74452e4d8b9132cbb6c99caaddd7aa"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "3a63405ce9cb57ab123316f980cfd02d9cf241479031c8205dc016f4d08a7334"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "afb9c0458cfa2e0082bccb5f7f6b45a601b103b7ec140e9026a7af09ee90f7e9"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "a84cd90d39877fd935b048d566df9c0fe5126e79a5bca3413d3293e12e6f16dc"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "a0620f6c94807e365051aeb2ca7a9092f85b94845ea674234c2b9949739796ec"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "eeb50bf4c88ceb03ddb002951d28c977637e2352422215243479ba5555754723"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "3a915a0b3c951a3e150f2fd8b5ab619f06e8816c8a2d00f35379955b0cf3528c"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "f73522f673b9313a8aa9a690e5a4a9f745b6b3c1851a4ae1f0cfd283debc4979"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "820fe809c719bc066617c470e4a4897ec5b9db66e7689da844ff780048319061"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "ba1593b772987db42e3f35c7bb72bce4039c59d339fa5649be0a601c55b4a876"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0015 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "31818380636b592f966b78dc42da8e7a7839cbcf926ff9fb407460cab5a02526"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "139272401bf9eb8f2d960fee8be235102fb7e424939ec25cacf5e01c6ed0423d"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "5a7c43090fcf323acdf2d705ffc8bfd40bdf687eda6e2e21c75b0fdd8f440e8d"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "13890c6342b398c06ac31d095ec5beef0b0ddf17e720a046b7fa60e7695ef456"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "a3ce5339091fbccbe30a2e66e0d6f9b689abbdf3c2eabe6d86e1d768b06196f8"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "44b7ce7ed9ef729c9178b261b4c70c1d1e4be8c34ca2352652d8c77850f4b764"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "3a88619840bc245817506b8a2036d65b9afa9195652fb32f06bb1fb138410834"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "9eea6fd76183345640acb108d5bd9488929302c25371e9b16c44700eb25c2c3a"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "650e81e4fe2c742f53a57ed3ce4cfdd71048714533c406951b0dafd18ae6f71b"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "15abe1c93dcabf64c32cefd008d13229a428888ba66e12f9b0c0209d371ad740"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "9506ce224a48ec877fb58eac74b14c2aa422bf1aba2bd4f7ec71dff27f8cf7e4"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "b7d96e6a9231fd0258193c0758d3b49e589512bcf79ec1f435199a7548133c76"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "f0d3475a3c7f9713c5d619d558e86d11deaad731108b17c238759cb3e7bb3569"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "9590995e1bb6473117c942040e32c971db8caa2779bd4938684a4ae862448c98"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "dbe4cc94b2dbe989a5ac7f360644ef8e7f5ef4bbbb32bd91a7f430e6b81ca25f"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "5a5d3f3ec93d0091060ac7e948083075a071acf035565da9540b4ae1ac13a349"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "3cce583a30f4f12bbf82dfa2d5f1d09fa4b6f4e6995ea295583345e17b349cb1"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "c656a93edff7667ebb9ea7f99e9a112f1efcb5ab5e1d0fc90951c845d6a26293"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "1a77121763fb5e9e7531db03b29907ac8ba3f4e42197782aef1572d370e99251"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "ecd75df9dce616a20f4e757b76a7dab4875e033082c4b35d257228ead632c404"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "49e0b12d59b0f67553a9d5b30a0661f084e85d35d2e35e98c81858e5d75bf29e"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "384d88a294393875e5a3321ec5a01e387a1cd80574994da2c8a2a09d640fff50"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "fccd55c9207f4cc791bd59b548107e746df58a3202b42c8f2f5e0c884c817e9a"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "fe7919e9329c91cfd848e53f78b8f3933d3afd461ae96c56aef30b63bd5bb153"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "d0cb8ab479937eaf15a60a962b82507c7330527a70b2d6676f9af49e35cb5b79"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "ea505534cf69c211b086bbc5c37f7d07931e1a57128bd38d395488e68cf600d3"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "a1c056bea3babf50389fee35c6712a1770295f7e043b3fa2fac62ba7a5409985"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "cb5178c0574d46b5b40ba50a265e34443032f618ac5a3fa5f52d8690ecb052fe"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "e3258274108eca72578afcd97b2b66d68acdb4cee44d1c899ffd674991e730ac"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "6f4c711ec5ed7482de4acba75cca686ab6aa2e082080aed0ba1a47ef43d45058"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0016 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "bbac5594ecaac60e9933334145b260ed1d7c466ca472e2e40b840ffb70c6fa35"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "fa27df1252709a38d62eaba9bc2af175340f92f0ebcdd269b4b88938892accda"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "229ed9c0507f74844969e197a501c2e28c102333fbc4a82123ba52aca7aa8ab4"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "397a29ed635aae83f63b74de8a5cc8637a2ab42a639de9170c44173361e5d679"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "32092ef2320108da2429ac45923af76abd6714afefb6b85d201a0232f603466a"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "164bbba481f32ae2d0ecf198fd165dcca93c92934bf63b2aa6cc55567ff31fb0"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "0472893023955b591ae34db606799ea5c1beb48200d54240c4da35f4de5a5cea"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "2fa2e3b9b41f8b39712b91432e694cc89381083de0ada9d8a08e7ec472b6628a"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "3129969daad2d62a16f1c4adb41f8c9f30a18d5804e531fb58f7cbe3fce3b1f9"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "3a7f071423a2fc87ff4baa532e8251f8afa979ff303f8cdd86920e90c3ec9884"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "a9b8084ca0958753781b7e8682be8c8ccf9de84ce676434da38837a08fa22070"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "32ff2e58efb2589f746806462ad331561647e83bea1d4245d71cfe15eb28066c"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "a6900ca3940eaf517b0d845a54ec24ec3a1b6dbe84e5311bb58ef0566eefbee9"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "a059d1aa9fc32655229dba762d5ca1bf7637411427509b8bc0e9d5fc1a41e85f"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "4062137371404347152b91f4efb78575ff0b351e82d83403f7ec97db0730e911"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "cc2931876eeb96a53e617116cd5b2ce8480c1bcfcc97d5f00dc948a1b7a85d32"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "00b446f28d9d288835f83c1c2a4b69ed58fd1a4010dbc5a6beb286305419348b"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "c05df5dffd029d8f6c29f3dbf7d8c5b2bc1f138137e5163756184755bbd4024b"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "0ffd1d4c784e27f61194c9382797c8fd28d1056bfd8006deccd20fc67f5d0056"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "cacf967785ba10ea97cffc16e5b2105e4f54445b5026685d4c0526ae9a193c76"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "0f75c3727aebb30427246274abb0789d7a5403a8f0ee98753ea846427986b338"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "6e6f44f91f617403e33965fc5144558f93d16ee4730f1639536f2fd18091b239"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "30fdaafe51a855ee519a63910e1c23f29680bd4eaf18458c6eea44a2d3526f24"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "2fc388885a00d87feeb6490723ae559f6a0b3bcce8745af1be7076cd2017e713"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "ce15e51f736e843e4834ec6eb78eb0ef0bbeae1a0b9bfcede041781c7c758ce9"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "cc470fe75414483a55df42f0775747f3fec93ec67de621a83d8ce21c247b81e2"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "8a7e48597311f4712b1527dd89f88884bf776b314273352c8034441779c3cb0b"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "cf12123ca972ca43551acff3998a7f3dee626cca1e4dc4b35fe97c8d59ecd699"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "a9fa24ed1406d52f237f3e791a8e7dabcf662b191f99a4d86c1208d636608816"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "0990a7d14fda6d806744e1e12099c7875753dc9f6c033f250ebec38dd7f5a466"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "6f4c711ec5ed7482de4acba75cca686ab6aa2e082080aed0ba1a47ef43d45058"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0017 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "42a025bdc84c27333ee1fab7f3d457d63435b4ba0df81ce13b7ccce2744df753"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "e54594dc94010c79e39af06e69225a42c328118bdb63bf17a05538551eec161a"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "317da4a052ce543b4268bbe86e6ad217c9f226d6fccec16b132c686239707bca"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "dc9cf85f53aad016373bc9c76772da3281e1ec35653f581c094b7ec2ecc121b2"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "b421b7d57832b0d88b2462074ecce9ac3a9e0e6746f4bbb088662c05b7415f40"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "4b702dc8406da84bc4b54ea6d0d9a012ba7b5a5713fa9394376ebfd065f3e8fe"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "e5a78c69eed8063d02fbeb5a8272313f15ee0850ad50ff41abd58ef0c2ca551d"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "a712a6d01d251164cc5f2bd57c4961af0dceecb93383c466b1c7f2b9df28a434"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "113f242385acff56dbcecf6fc75ce10891d64cd832bd8465d891609701bf8f2e"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "ac82b1571329df8d3b75abe0c71aa666f65d6a1b03a6be6668012ebe1ecfd134"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "bf60566b2c4fc0ed6b98c59ae5d2deea528f18cf5201495b4a8c2a1b8951c0aa"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "273a1caef90b3b5d6f3036171d215c475da58f4bb3a2397bd80389c7c754da89"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "aae17f1f6c5e26c6baf87ad395796169d93b04a5485f583e98ef86b422d2d2e1"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "3e9e6518ff051c8082eb98b7713250a988c88d77e5ed50943f5557f1bd1f1a81"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "d4a14fbd074965f19d8d42234b9af006aff26bdac8951a0e142a46a495e52173"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "32ccb2308efcdc9ecdd3b7ccad1d3b000e0f679cccfec68e250017e119a9b2aa"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "51bc9363d2637fafcaf5c0d3f861a55c2632837938258b2e6d108b3d4782891d"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "719ab77db9afdac81a94c0b1d2954c0267766df1db807ed47ff6ad8cd8ffa88d"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "1b8fa8823ab4a0fd6555867e4946f8430fb1af0d301f236c87bad9a6ecc427fb"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "b7eca654d968c6997438c8989d4a42a2c63ec7f7a5ee5803adb12706caeb6795"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "fa0f57ddf8a655dd29b62ac26409fa2c7245017273f36eb7fe11d5e7af0cd86d"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "611ea8611b1707676dfa4c4f648a850fe50448aa23f51be4b26b8903036fac80"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "eb69827b994673b160f4d0508b21355aa0cb6a02ed26857a79f570dd7f22504e"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "4b6b08f3ad599a95eb8938bd79a367b7b65940b22da98bc21f493af561e47035"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "86e8259f1ac0728ebd7d8ec77b52860d8c5f3004f301dde9cb691b92a9ac481c"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "dd9458b134b410b3d8693725f9b59581ffd93b7569b41e2423af5ef0eac35234"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "156b36fe4afc58c59e5befd644f97845d2fb98353e2920f8df5391930f971742"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "160691fb6dca9f987cdebebfa915ca066683e08e48155ceff4d743a8e4b877d0"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "469c3177e2b40a02cf5a56a6f9eb72d35d3048bcab8e00d51dd38a54a66ce2b0"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "f914a1c628ef2f3ec44982848fad42cab79ba223d9394b53d98ffc6496d7b604"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "40c55b0595089a961c24f64211669fb13f623cc1c517d272d5a44974c3705b99"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "0f4a6f1de9e5c8d96be3739db05c9a230e46d456ce69881b53a102d44df58f2f"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "acb03d26525bd7bbe48cdb8cd1d09cc7beab7acd0ad4486bc48639c9f097d157"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0018 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "6112a80af5a693deff09595519d0b3ec1c8adaf20a3df03b11b61909c5f85de4"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "6704cd23085d1c465aba512031adaa1c8f53ddaf37844263c499ab8afe411915"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "0a3dda3926004b34e3a92803d390500c9783c333c846175ac31879853ee2beb8"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "ecd6f915157130e2acd68139d4ac25a0a901081a77298d33638216230806a1a9"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "f3af847f106537624e99855974b13eb89da2aa145bee0ed8abd9771bb1c480ff"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "225e73c0d733b0cd6aaa5e1fc0ffb88e1d21a929ec4f1537a609645f3ae36503"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "643ece90a500c6b807c003568c357d708809fe709e6fb9690a32ddf309ead520"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "6dd998dad7b0dac42815618ab0d08f8c3e006959fe5254042fa8c90c35b39ac2"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "68a37577ff5259dce9de957afff773f332eceb55f0223ff7aa6a24b3d541fd40"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "07925c29c1d22864d1140d4220e6dabdece62055cc947643f4944c43a9bb051a"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "711b28e27df40c244e69645d6d626b9e45e916dcc9a2c0760af030c627289a9c"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "ef0224f73768f94830f15947abc0d9da5122e35a95b0cf17f159f9f629b241c2"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "c0889706591eb3263c853997a2e4ce3079a898c1660ceadf9648e9fdbaf7395b"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "37eccd25f9510d37c45411968ac79e72fda7a02ca2588743b97ac3330e51f4a0"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "1de889ec42e9ad97f971ddb105ba98e725489be62216c796c2d0726fb6d2fe8e"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "9434213b913061ce7ea652b756fff00abd70e7204795ceb01f97cad40add52bf"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "0c1586ac56c1a2637a6ca54ef143693ec690a107da6255a52ce2fba90d3d7f08"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "d521783d6947a7742f1e187597a5de5fb88fa85b0211c13a2cab1cf9f3a1e7d9"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "5c5d060c3b99248cfc29ee2dcde97ab32eaac7984740b813900c8aebcbe72b96"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "e2f50d703b7bf6a22522ae353e326923042f8257fcc36ce408920d11e6bd5785"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "5b305f29d91279243ded66cb8358ec0fa7b570e37ee6c8316314ed5b38449fd8"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "74dee9efd981c2f3a9cb6121309edec7bfa6535c7c130754d5adc0764837770c"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "79733c58302a73ed680acc1a81478034bfef9cbcdf75454cfc262276ed69f1ff"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "2408909e21cb6ca8517ce6ee6bab9dc0c1a42d5a8ec00f0d6dcdb873a55e4df1"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "477aee7897106cb9f2c4de0f1024c340166702a65793bbd115bdc070d3abbd5e"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "3f4a027d441638df71d0f825e97e0ed93347e1b5f3daf5502ec86ed37a60288a"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "466e768ce6fbd2055932c9d216ab43f6f2721b9ce468944d63bcffc522079f06"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "bd2076b8a8cfc43e4f9ef9675c39c33f937970ce8851b798cdbc320f4f7bd63f"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "66e0684b54009384918a6633cabbdcbcb323471e183747b78fb224c3fb1d7228"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "39e6d7129c2cb3bb5ceda440dd496d2337046c1eacbfe587c910f446eaeb50d9"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "acb03d26525bd7bbe48cdb8cd1d09cc7beab7acd0ad4486bc48639c9f097d157"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0019 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "94edecd3c5781fcdca248bc074091bcbaa89a2f03fa626dc5e71de184dd4af2b"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "95cc5c3287b101ba77572c9c669eed3c87660afa638a06bc28e5313a55bd0e26"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "bdab0f1ef63f042561e3f5a97eb1fe22ddfa1545db8245fa190b395d2f28be66"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "d94de17f50e3aac80f84e913a5852bb569c31edaa99ca2de9a24acf7f66adc59"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "29384b8715a24384303e00d35013b9b9869016c5679e467f52451059f4d39dc7"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "9476f665b51fd574d4d6b120a5bb20768a99fdad2cc312584c850b0eb29fbe4f"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "f98c6156c37476a73d58325720fdcf68a94eb73e8657db308523eaac217eddd2"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "fba647f2b166d4d5b8f49cb64d7361eb6f55edb32068f49b824846834d253730"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "119ee22d2c22b21732bb549f9419b1ee33f6af0da1ca6db77d2a1d5671c180f3"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "0226d800045d901f0780439205a5c7493a82dc01c1e9938334b72b0a0697cd69"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "96cfdc7e9cc71dd5af9bb071316442c7e50c079680df3ad8c68c411ac09b6875"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "58a306368ef07ce04376ae96f92c56fc97e1dc73a052b5158bf40ec0a45962bf"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "020cdf88560529373ab46f42e32fb3b76e27453ceb7c35da480b6e8e19124d07"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "72c8a3d41566ae5b3d3df5e52dc0fac876b3b8f17659766b3b5db237c976162c"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "06ac9f45297e0fdfffaf284e08799b7afe06042eab8109f3fc27b1cf0056dd69"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "55ef806e39cb5668f44064ff17f6a75f29c869c65a568dda2ec586ee1a9e1ed3"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "f3e4062f379be2ca2e3ac3878e13238cdd78b1fe082de6374cf40b76c576354e"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "6a3626a3c3897affe7c80f95cb8ca8d9a990b78af869df21a1a13f2ca28c5272"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "1facd25d4ebba0f02d21f1d901cda3860e3623296f48f27d9d0916f527cbef4a"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "b9473abd185de9bbe9cf3ef29b5b648e12de451921f3be6ca7ab125b9c37ed15"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "99549d079824ed44681a5c6face1fcc237dd43f39e4562dcbb9cc9d745435930"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "8d36fff40f6527ccc0c14783e15202fbaf3e191d96377126440391b4e3b4b471"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "c3ae37ee8fd99275455ddb554d966b2215abb417328b0db150c2da583060288e"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "27cce2c67d8b00f07610dee5beccace4a25bc793ea7d5c33ed280f7f54da66b0"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "62dee3568ae362f7074d6534f6d1468549a548ff42884e6ebc0ce29a8664577c"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "20a6c9b138e45c57825478d4816fc17a97fad2d3e04908ec1d5a520c3b9ec8ca"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "da897ae4712c89b8f8c451bf43e830dd891610d8ff8d73f62c2e12d5554ed9e0"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "b23d5b4e5f5f4213d2ddc0606a718e9d252a2af3a8ffb6f98406a0f05bffcb78"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0020 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "cbebebc88e7ea1c3d853f610ca175551d0c782caf61a3c3a001e213472f9ce2c"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "67d1c939ee9ac414a6fc12316b1f9301876baa9bd56d0c775529e298aa4ae0bf"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "932a05e0ddc4f50123476f58cebe99c8fd60763a9677dfbee851d9e1444ffd40"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "90b07d6f539298f58cfd0eadf1b5622c234f9eee4decf186b3a1433af76a19e8"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "e14c8d2bd1f2d4c13e5fc1cc1f80b160d6873d7b0753641b32ed1e94d1b73391"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "9ef2adbf4759f1dd36f15ba1214524e3ef3d21d50ad0e5cccb35f71c42fcb0dc"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "e757933ea86690a6cdf14944ddff57fb48c75594e13c67d929226d7c08b85706"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "30a2919dc1990553375a54d768ca0034219571517f9bdcc652b18ab9b1ab4c0d"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "96480fc7b2f573dd1263d1cf323244136b9404406a763416ff4de4a2ce3e3579"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "4d12d38db9679a01474e3b8b53a2b84ae266c75043c3c24ad2c51294d36984d0"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "08a5053cd25058a87bc2e33593c748b90846123b3ae418bc78b361d56930751d"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "8d22ca9492474309c4854f3590c1d2084ea5a2c59e1234640263e8c51dc4e64f"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "ffca207d0057c0ca0f9a421e8d24b16f2fcd456c9de48855ed7ebdd792624b1e"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "e90ae198782017c1300680ce516ece10b0e293f4a63e0ddf9f9bcb3beda5b5c2"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "78df0d082da6792d03203133f09bf9df8473bd89e08896fffb30b516e8094709"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "5183fc4d679cb5761d5d1ce5d313b7e0e1545fbb0ea200aaf51880de10909309"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "5e7aee0e1b8f0330bb9e637dec4e042b8f60e41f5feac071fb51b728b8ceeba3"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "698b1bfe1063ef11245d97dee8cd22ce85fb993a1691d7b5350b02616071e3f9"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "90c4bbe1f305393207015ca26329fba135ca2cc786b1e0dedfabd97dc0712915"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "d494eacca3b9e00f6e99f667e4c33f928b27a3ac580551c044904bc4be43d285"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "0eedfa02af0949cfa5182d4fbd83118064246b907e0b90731a0a4dd830109190"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "cad7ac6a8e674579434df319d3438e9598abe366b5f105fb23671fac6b696b1e"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "a747d10ded90187eac7a6868b4aaeb1324ba257089be2df54432c40795da7c57"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "e9155250f3faaa12385b7d1ddb7750cadd1c248c8ff74011cdbe023957ae1618"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "f19b2f5fc280af0bacc5d1ed684f1ec2234e796797fa89790ec5af8a5451eb9b"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "3aba2f480ced2ad17ba5561f49b9003fc5f43749596ebe4164d036285d7fcd47"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "cd2d58ef78826c071cf339f36c09700d4aae533d6208435e64b53b88e31723f0"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "d80659887aea6d98ac05d3f70b09fa9cd5ebcc3723d93628084de9c39921ef11"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "075d7f957822ce3badffa7ee4385ce0b06c0330254fd61b9f5367b0f2615b826"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "b23d5b4e5f5f4213d2ddc0606a718e9d252a2af3a8ffb6f98406a0f05bffcb78"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0021 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "11738f975af32895f7b3d299aa3d6a4ec3dd82f93e5b52c719f22cbf761543ae"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "bd80c867b17713d1a12ddad8ef72a62e3569c9123639760e572727bda71d5773"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "5cf590a1a95023c85b4b92b66cfc99c7fdf67ebfe5ca9cbef941ec5aa47acd27"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "0669bcab1787def1da64ac9ab2d86daa7618b9d509dab500fdaf44a96c38f006"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "5894583bbc8b5306abb21c19b3663bcee4e0f47840b2102b16381a807ec707a8"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "d3f007d0700f7804c8cea322f3c05eb0ca6023402039a32166607ce9ce0984ae"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "b2f8a97ed098f1d1353ccb181a27cfc441a23ffbb43041ed7b8901f34ed2e4ac"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "59b9ea3c1e4cfff60ffd70633a9efd9f04d60d7fe0ba46d417014ed4bd02aaf4"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "8131544ecdb7f979724d89a479386cafc74e28cfc3eed2358fac7fe483bff386"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "f2443c4a8db6e6ddb7245dbfb3bf0bb6f0c566389ac92e7f69dd05d762c97fc6"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "93462b1fd815371cbd171f67f5511477ba7bc34a73df884ce594aa27cc7f8b00"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "5c40a540df2c199e233925064c191c5dac37417c3354fe4d1a90e2cf69c9d498"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "4210cb4634035628b47c19760382518b5aa38003e02e96954657c65b755862d2"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "be5579137438f5d5124ec67746af857d86c3f96e556efa1574282996700fb970"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "41fb32df41b8fcad6bfb891847d62c0520222df7e2ccf29e5a6bc25dd6bd6433"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "667f7b100d9b43713ae7091e49f6d99f4514b7b1b072e5c4fcb80d8497331bf8"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "87e4a668553489b8dca39439f651831df050490e5f9690f1c62f4af37d23ae10"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "5a69401cbb832fabb74b810c87dce0ea3d3e0e3ab1a30d515268217c2284f547"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "9e1d65e9ade4536d174cd7179e7f095868dcea0693c0ee5df5e85eb5f3c57d9e"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "c91c4c7716e4ad95a27d9514f0e10190c2bd0356fd20167d4c481da50a50c7ed"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "c7a89f5418d34625c961d1154c607ac6bc6ca13e65eb258b7688138a0cd8b23b"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "19f8a09b506a1db6a1f78a27cd017348f4167c35863b54c724c6817f88adcd83"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "71f00fee26a1d2abf2e5337c8edeaf41eddbaed6ece36160a3108e84972a90cf"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "839c483ff01446cf98e6fb0481ed46f4faafcd6be100e096a786764153407cf6"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "c57687d1d2cbd5e068285a601ac50c63a8c026c75345be94b93e252e44e761b0"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "a2676e989f88e217f97d68faa03ae9bae8a977ed6be8b2cfebe57aa3728b13ea"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "832150a604305a08818c51fb68a4e89621a80e4ed234030b99ed6219c837ff39"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "a1c70ab8b069fb511f9807d6b2d391fc937ab737c38d2207a967d8f2b48822d0"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "6f965efe413cc6cc81c90134d18428f901c4199550b72f6c55376d5bab81fdfc"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "1944b1a795f5fc9a24178b9450672ed4053eb125ac4f7d624c8ba0ec22d92665"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "45e412d3f9162b0221943cca06e03981bd27a6daac43c0e4cc14e44160164f7a"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "b4961b596ed9395d2e337fb5a6549331b6390d8cfca31148d49cba3172da70b5"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "a457957d50b196755f38f781ffa203fb6b4bb12835a641782f08872c2d512844"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "f36271a40c8f74f1fab23e1ccd3515369507acc0f32febda10e69b51562552cd"
+        }
+      ]
+    },
+    {
+      "filename": "/home/alessandro/_temp/6000/6000 - 0022 .cbz",
+      "comic_info_present": false,
+      "pages_stats": [
+        {
+          "filename": "001.jpg",
+          "is_blank": false,
+          "hash": "d057f3b8ba2958babc179ee3db46538e2303c382df68980862dd7b76774bbcbf"
+        },
+        {
+          "filename": "002.jpg",
+          "is_blank": false,
+          "hash": "261ab2e159f7421c9667ec5f6aed99bf1617336bd02faf7503cd1c96d8052339"
+        },
+        {
+          "filename": "003.jpg",
+          "is_blank": false,
+          "hash": "f0690254807e73cceef43313075b8b88958a498521816365adc997dc8591de9c"
+        },
+        {
+          "filename": "004.jpg",
+          "is_blank": false,
+          "hash": "f6b271444020d525e033bbd8fd96cf7a8d9b5197c7e7c1270b2b8c76d77fa561"
+        },
+        {
+          "filename": "005.jpg",
+          "is_blank": false,
+          "hash": "1a8509cb3af3886cc6c92b6605a90336d20de1b33bda6fb1493d96ded7668759"
+        },
+        {
+          "filename": "006.jpg",
+          "is_blank": false,
+          "hash": "dfd74f971d3cd80a81944749d1e665fa26826fdf8591abb21d0abd99de79a055"
+        },
+        {
+          "filename": "007.jpg",
+          "is_blank": false,
+          "hash": "7934a4e224ac48bbdc0039f2af44f38178149267ecb9221a3045f187297f2745"
+        },
+        {
+          "filename": "008.jpg",
+          "is_blank": false,
+          "hash": "b3157e758f3a9844e2e0e7688dd10eea013c0ea7c5b4788914696771ba816548"
+        },
+        {
+          "filename": "009.jpg",
+          "is_blank": false,
+          "hash": "ac27eb737a2cd9bc44bd788fb89dda69af103a7ff82c91a0d942d61fb7e8e1fa"
+        },
+        {
+          "filename": "010.jpg",
+          "is_blank": false,
+          "hash": "86d3b29402fc79fe193f3bd148663f2e04bad099649e83af299f00e7bbf94ff5"
+        },
+        {
+          "filename": "011.jpg",
+          "is_blank": false,
+          "hash": "3e6cd3dbe0fb386ebb098fa2460d37652c0a18a0523d78c0e3365ecf252fc747"
+        },
+        {
+          "filename": "012.jpg",
+          "is_blank": false,
+          "hash": "66e90f79d3f5458961b18bc2bb9ea9b0cb1bba41335ca9d3deb5859d9ed52863"
+        },
+        {
+          "filename": "013.jpg",
+          "is_blank": false,
+          "hash": "ec8297e19ad4e94195ee468f31f69842aac72119216c6fbc29c88c963f84d420"
+        },
+        {
+          "filename": "014.jpg",
+          "is_blank": false,
+          "hash": "5e0b62c910f39496e7fab71d74a2b8e9c2702a64dcdf0f6673aaa94f3bc9f0cf"
+        },
+        {
+          "filename": "015.jpg",
+          "is_blank": false,
+          "hash": "7cb4e08d3124f9c75d7c72014430acfc4957aebc03f240b9c3ea0633cbe13dea"
+        },
+        {
+          "filename": "016.jpg",
+          "is_blank": false,
+          "hash": "e3733db46b18f211aa9b680be35ed73c195bd40fb41ec45e41172d3fba013fef"
+        },
+        {
+          "filename": "017.jpg",
+          "is_blank": false,
+          "hash": "3e3d92dbcdb04f2c8187779d266afab0b7a61493af2974fd3665154c1be4b91c"
+        },
+        {
+          "filename": "018.jpg",
+          "is_blank": false,
+          "hash": "97554924a1c7bf860573dc7e8b2d62be1c0bfc66fe87e374e17f59ee9ef4b422"
+        },
+        {
+          "filename": "019.jpg",
+          "is_blank": false,
+          "hash": "aa7f34bfb9795b26b994332345e3929a029b57eb93c0fdee378a7d51709f6d70"
+        },
+        {
+          "filename": "020.jpg",
+          "is_blank": false,
+          "hash": "fd45103f8bd86ab3b0fc3c16c7187eb9eb4efcf85b0f580a6df7461a80d9d389"
+        },
+        {
+          "filename": "021.jpg",
+          "is_blank": false,
+          "hash": "6ffa9f14faa804132d5b860c6da077b5f68490df5f2030957dbae9096d178f60"
+        },
+        {
+          "filename": "022.jpg",
+          "is_blank": false,
+          "hash": "9776a80fbe4ea0b7b29c7242bb2fc1bae27522c992fb1cda1be612f9819943d8"
+        },
+        {
+          "filename": "023.jpg",
+          "is_blank": false,
+          "hash": "05fad89f5e0c035a7dc579853132b4b65992c08b1cebf9848db8e8b9123af339"
+        },
+        {
+          "filename": "024.jpg",
+          "is_blank": false,
+          "hash": "2614d37ae19814e7cc80fb0144a14212a15f9b8d3832e37b4785cdc361a7dcaf"
+        },
+        {
+          "filename": "025.jpg",
+          "is_blank": false,
+          "hash": "e4d046806a4ab69a2866fbb54d14fea32dbe2412b302af53a83e4f1da49e442f"
+        },
+        {
+          "filename": "026.jpg",
+          "is_blank": false,
+          "hash": "642853a3dea3b51e354980dbc9c252be3a4c01695e1be204e2dcb798e95d7d72"
+        },
+        {
+          "filename": "027.jpg",
+          "is_blank": false,
+          "hash": "3cb17b5622dc7826d05de9629a2afcfe755b6943abfcc5b194651e401ba483a9"
+        },
+        {
+          "filename": "028.jpg",
+          "is_blank": false,
+          "hash": "61803373057e6ccad422256cc3dac1eda1e3f7b7e63b3d02c7dd9c66d30840ff"
+        },
+        {
+          "filename": "029.jpg",
+          "is_blank": false,
+          "hash": "a23f4d8290ff41e37ce12ef2832a2eb805274f7882f85bf680465d10f115eecd"
+        },
+        {
+          "filename": "030.jpg",
+          "is_blank": false,
+          "hash": "8bad6f7432da4a4ff436fe769a7dd15cf4ebe8e60814317e6cddce2de1804a26"
+        },
+        {
+          "filename": "031.jpg",
+          "is_blank": false,
+          "hash": "9bca4b9c80396933a9ae565740d0eb4eff0448ea0477dea0d5eb9300583a3a81"
+        },
+        {
+          "filename": "032.jpg",
+          "is_blank": false,
+          "hash": "5cdec7e510879af1a6ae8f20bcbb91d9af781d2919d742cdb4aba3ba3de721d3"
+        },
+        {
+          "filename": "033.jpg",
+          "is_blank": false,
+          "hash": "ba1981641d0f32047c41d5c7feeb745f0c1d4abbf7dc8822ef6688b9f9584285"
+        },
+        {
+          "filename": "034.jpg",
+          "is_blank": false,
+          "hash": "7bd222a1c3b9a0db8bc8ac7e2431dcdfe594e4c98698742476892371ef493a45"
+        },
+        {
+          "filename": "035.jpg",
+          "is_blank": false,
+          "hash": "494fc347d4cc52164557baf4a49882c966b9a35e686ae4e8ca4a8583c5e017ba"
+        },
+        {
+          "filename": "036.jpg",
+          "is_blank": false,
+          "hash": "54577c92a41aa32562222e2ea2e6ea36f550d08b3fa9a2208a341a2f161bd0a3"
+        },
+        {
+          "filename": "037.jpg",
+          "is_blank": false,
+          "hash": "337157f24cd22990018f9c97398fe9fb287480ee24a74e1ce02431b642a1e9e5"
+        },
+        {
+          "filename": "038.jpg",
+          "is_blank": false,
+          "hash": "82ed44c288a0c17f2135bf42e91441246103005bd229d8a824700c6648d16b20"
+        },
+        {
+          "filename": "039.jpg",
+          "is_blank": false,
+          "hash": "5b30b317bac7c3709197e08c71c6c508250446db225e64b0eff0b1166a2773a7"
+        },
+        {
+          "filename": "040.jpg",
+          "is_blank": false,
+          "hash": "66bfb7fb690be500273424a6000b9596257af15d86372f8d2acf9496de465ce4"
+        },
+        {
+          "filename": "041.jpg",
+          "is_blank": false,
+          "hash": "70df041e7d8f0d8912add6f48fa8b7a5c29b6d065a08ae7487e207d2504af591"
+        },
+        {
+          "filename": "042.jpg",
+          "is_blank": false,
+          "hash": "f36271a40c8f74f1fab23e1ccd3515369507acc0f32febda10e69b51562552cd"
+        }
+      ]
+    }
+  ]
+}

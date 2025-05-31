@@ -16,5 +16,6 @@ class MangaRepacker:
 
     def folder_stats(folder: str) -> str:
         stats = mps.MangaRepackerStats()
+        json_data = stats.get_folder_stats(folder)
 
-        return json.dumps(stats.get_folder_stats(folder))
+        return json_data
