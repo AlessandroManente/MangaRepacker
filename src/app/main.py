@@ -1,4 +1,4 @@
-import mangarepacker as mp
+import modules.mangarepacker as mp
 
 def main():
     MangaRep = mp.MangaRepacker

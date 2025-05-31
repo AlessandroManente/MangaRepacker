@@ -1,0 +1,1259 @@
+{
+    "folder": "/home/alessandro/_temp/20th Century Boys/",
+    "number_of_files": 249,
+    "medium_number_of_pages_per_file": 0,
+    "median_number_of_pages_per_file": 0,
+    "min_number_of_pages": 0,
+    "max_number_of_pages": 0,
+    "number_of_white_pages": 0,
+    "number_of_missing_comicinfo": 0,
+    "stats_files": {
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0001.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0001.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0002.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0002.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0003.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0003.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0004.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0004.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0005.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0005.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0006.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0006.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0007.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0007.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0008.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0008.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0009.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0009.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0010.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0010.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0011.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0011.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0012.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0012.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0013.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0013.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0014.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0014.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0015.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0015.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0016.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0016.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0017.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0017.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0018.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0018.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0019.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0019.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0020.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0020.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0021.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0021.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0022.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0022.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0023.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0023.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0024.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0024.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0025.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0025.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0026.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0026.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0027.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0027.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0028.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0028.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0029.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0029.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0030.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0030.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0031.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0031.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0032.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0032.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0033.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0033.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0034.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0034.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0035.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0035.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0036.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0036.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0037.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0037.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0038.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0038.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0039.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0039.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0040.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0040.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0041.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0041.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0042.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0042.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0043.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0043.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0044.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0044.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0045.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0045.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0046.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0046.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0047.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0047.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0048.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0048.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0049.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0049.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0050.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0050.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0051.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0051.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0052.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0052.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0053.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0053.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0054.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0054.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0055.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0055.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0056.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0056.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0057.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0057.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0058.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0058.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0059.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0059.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0060.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0060.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0061.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0061.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0062.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0062.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0063.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0063.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0064.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0064.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0065.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0065.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0066.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0066.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0067.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0067.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0068.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0068.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0069.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0069.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0070.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0070.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0071.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0071.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0072.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0072.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0073.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0073.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0074.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0074.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0075.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0075.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0076.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0076.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0077.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0077.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0078.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0078.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0079.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0079.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0080.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0080.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0081.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0081.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0082.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0082.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0083.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0083.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0084.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0084.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0085.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0085.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0086.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0086.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0087.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0087.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0088.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0088.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0089.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0089.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0090.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0090.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0091.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0091.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0092.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0092.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0093.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0093.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0094.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0094.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0095.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0095.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0096.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0096.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0097.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0097.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0098.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0098.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0099.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0099.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0100.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0100.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0101.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0101.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0102.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0102.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0103.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0103.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0104.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0104.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0105.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0105.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0106.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0106.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0107.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0107.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0108.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0108.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0109.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0109.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0110.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0110.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0111.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0111.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0112.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0112.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0113.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0113.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0114.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0114.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0115.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0115.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0116.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0116.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0117.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0117.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0118.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0118.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0119.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0119.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0120.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0120.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0121.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0121.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0122.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0122.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0123.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0123.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0124.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0124.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0125.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0125.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0126.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0126.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0127.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0127.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0128.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0128.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0129.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0129.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0130.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0130.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0131.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0131.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0132.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0132.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0133.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0133.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0134.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0134.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0135.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0135.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0136.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0136.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0137.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0137.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0138.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0138.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0139.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0139.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0140.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0140.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0141.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0141.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0142.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0142.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0143.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0143.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0144.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0144.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0145.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0145.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0146.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0146.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0147.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0147.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0148.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0148.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0149.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0149.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0150.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0150.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0151.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0151.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0152.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0152.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0153.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0153.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0154.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0154.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0155.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0155.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0156.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0156.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0157.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0157.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0158.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0158.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0159.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0159.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0160.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0160.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0161.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0161.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0162.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0162.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0163.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0163.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0164.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0164.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0165.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0165.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0166.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0166.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0167.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0167.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0168.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0168.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0169.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0169.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0170.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0170.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0171.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0171.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0172.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0172.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0173.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0173.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0174.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0174.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0175.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0175.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0176.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0176.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0177.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0177.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0178.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0178.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0179.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0179.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0180.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0180.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0181.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0181.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0182.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0182.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0183.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0183.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0184.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0184.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0185.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0185.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0186.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0186.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0187.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0187.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0188.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0188.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0189.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0189.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0190.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0190.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0191.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0191.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0192.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0192.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0193.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0193.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0194.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0194.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0195.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0195.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0196.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0196.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0197.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0197.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0198.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0198.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0199.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0199.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0200.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0200.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0201.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0201.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0202.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0202.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0203.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0203.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0204.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0204.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0205.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0205.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0206.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0206.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0207.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0207.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0208.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0208.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0209.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0209.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0210.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0210.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0211.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0211.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0212.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0212.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0213.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0213.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0214.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0214.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0215.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0215.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0216.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0216.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0217.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0217.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0218.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0218.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0219.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0219.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0220.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0220.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0221.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0221.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0222.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0222.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0223.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0223.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0224.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0224.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0225.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0225.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0226.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0226.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0227.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0227.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0228.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0228.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0229.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0229.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0230.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0230.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0231.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0231.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0232.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0232.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0233.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0233.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0234.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0234.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0235.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0235.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0236.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0236.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0237.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0237.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0238.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0238.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0239.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0239.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0240.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0240.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0241.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0241.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0242.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0242.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0243.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0243.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0244.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0244.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0245.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0245.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0246.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0246.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0247.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0247.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0248.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0248.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        },
+        "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0249.cbz": {
+            "filename": "/home/alessandro/_temp/20th Century Boys/20th Century Boys - 0249.cbz",
+            "comic_info_present": true,
+            "pages_stats": {}
+        }
+    },
+    "min_number_of_pages_per_file": 0,
+    "max_number_of_pages_per_file": 0
+}
