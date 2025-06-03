@@ -6,7 +6,7 @@
   "min_number_of_pages_per_file": 24,
   "max_number_of_pages_per_file": 42,
   "number_of_white_pages": 0,
-  "number_of_missing_comicinfo": 0,
+  "number_of_missing_comicinfo": 22,
   "stats_files": [
     {
       "filename": "/home/alessandro/_temp/6000/6000 - 0001 .cbz",
@@ -3755,5 +3755,37 @@
         }
       ]
     }
-  ]
+  ],
+  "duplicated_pages": {
+    "75fb667bcbe62512d300f4049be8f44d13090b151f702ebcd356b5bda04dfab6": [
+      "/home/alessandro/_temp/6000/6000 - 0008 .cbz/030.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0010 .cbz/033.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0011 .cbz/037.jpg"
+    ],
+    "2a4357e4c72288e29a207208b77c8a01eedcf68b27fa66eb60988479643651a2": [
+      "/home/alessandro/_temp/6000/6000 - 0010 .cbz/001.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0011 .cbz/002.jpg"
+    ],
+    "c528fd68bd9b4d123c22cae8884a8f16343cebbbdb5a2d724033147eb02073d7": [
+      "/home/alessandro/_temp/6000/6000 - 0010 .cbz/002.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0011 .cbz/001.jpg"
+    ],
+    "6f4c711ec5ed7482de4acba75cca686ab6aa2e082080aed0ba1a47ef43d45058": [
+      "/home/alessandro/_temp/6000/6000 - 0015 .cbz/030.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0016 .cbz/031.jpg"
+    ],
+    "acb03d26525bd7bbe48cdb8cd1d09cc7beab7acd0ad4486bc48639c9f097d157": [
+      "/home/alessandro/_temp/6000/6000 - 0017 .cbz/033.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0018 .cbz/031.jpg"
+    ],
+    "b23d5b4e5f5f4213d2ddc0606a718e9d252a2af3a8ffb6f98406a0f05bffcb78": [
+      "/home/alessandro/_temp/6000/6000 - 0019 .cbz/028.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0020 .cbz/030.jpg"
+    ],
+    "f36271a40c8f74f1fab23e1ccd3515369507acc0f32febda10e69b51562552cd": [
+      "/home/alessandro/_temp/6000/6000 - 0021 .cbz/034.jpg",
+      "/home/alessandro/_temp/6000/6000 - 0022 .cbz/042.jpg"
+    ]
+  },
+  "number_of_duplicated_pages": 15
 }

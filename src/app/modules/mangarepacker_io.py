@@ -42,8 +42,8 @@ class MangaRepackerIO:
                         print("Can't load image", name, "Error:", error)
                         image_dict = {}
                 elif name == "ComicInfo.xml":
-                    metadata = zf.read(name).decode("utf-8")
-
+                    metadata = zf.read(name).decode("utf-8").rstrip()
+        
         self.pages = image_dict
         self.comic_info = metadata
 

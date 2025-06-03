@@ -52,7 +52,6 @@ class MangaRepackerSingleStats:
 
     def hash_image(self, image: Image.Image, method='sha256') -> str:
         hasher = hashlib.new(method)
-        # Use a canonical representation (e.g. PNG) to avoid format-dependent differences
         with io.BytesIO() as output:
             image.save(output, format='PNG')
             hasher.update(output.getvalue())
@@ -62,7 +61,7 @@ class MangaRepackerSingleStats:
         cbz_file = mpio.MangaRepackerIO()
         cbz_file.load_cbz_to_memory_from_file(filename)
         self.filename = filename
-        self.comic_info_present = cbz_file.comic_info is None
+        self.comic_info_present = cbz_file.comic_info != ''
         if bool(cbz_file.pages):
             for cbz_page_name in cbz_file.pages:
                 cbz_page = cbz_file.pages[cbz_page_name]
